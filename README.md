@@ -5,21 +5,21 @@ This project provides APIs for creating, managing, and taking quizzes. It suppor
 
 ## Features
 
-Quiz Management: Create, update, and delete quizzes.
+* Quiz Management: Create, update, and delete quizzes.
 
-Question Management: Add multiple-choice questions to quizzes.
+* Question Management: Add multiple-choice questions to quizzes.
 
-Score Tracking: Track user scores for each quiz.
+* Score Tracking: Track user scores for each quiz.
 
-RESTful APIs: Built with Django REST Framework for easy integration with frontend apps.
+* RESTful APIs: Built with Django REST Framework for easy integration with frontend apps.
 
-Admin Panel: Django admin interface for managing quizzes and users.
+* Admin Panel: Django admin interface for managing quizzes and users.
 
 ## Setup/Installation Requirements
 
 Follow these steps to set up the project locally:
 Clone the repository:
-git clone https://github.com/your-username/django-quiz-app-backend.git
+git clone https://github.com/edosatk/the_quiz_app.git
 cd django-quiz-app-backend
 Set up a virtual environment:
 python -m venv venv
