@@ -17,25 +17,25 @@ This project provides APIs for creating, managing, and taking quizzes. It suppor
 
 ## Setup/Installation Requirements
 
-Follow these steps to set up the project locally:
-Clone the repository:
-git clone https://github.com/edosatk/the_quiz_app.git
-cd django-quiz-app-backend
-Set up a virtual environment:
-python -m venv venv
-source venv/bin/activate  
-Install dependencies:
-pip install -r requirements.txt
-Set up the database:
-Update the DATABASES setting in settings.py if you're not using SQLite.
-Run migrations:
-python manage.py migrate
-Create a superuser (for admin access):
-python manage.py createsuperuser
-Run the development server:
-python manage.py runserver
-Access the admin panel:
-Visit http://127.0.0.1:8000/admin/ and log in with your superuser credentials.
+* Follow these steps to set up the project locally:
+* Clone the repository:
+  * git clone https://github.com/edosatk/the_quiz_app.git
+* cd django-quiz-app-backend
+* Set up a virtual environment:
+ * python -m venv venv
+ * source venv/bin/activate  
+* Install dependencies:
+ * pip install -r requirements.txt
+* Set up the database:
+ * Update the DATABASES setting in settings.py if you're not using SQLite.
+* Run migrations:
+  * python manage.py migrate
+* Create a superuser (for admin access):
+  * python manage.py createsuperuser
+* Run the development server:
+ * python manage.py runserver
+* Access the admin panel:
+ * Visit http://127.0.0.1:8000/admin/ and log in with your superuser credentials.
 
 
 ## Contact Information
